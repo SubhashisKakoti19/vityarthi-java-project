@@ -1,4 +1,4 @@
-# OmniStore: Enterprise Multi-Warehouse Inventory & Order Routing Engine
+# IMS SYSTEM: Enterprise Multi-Warehouse Inventory & Order Routing Engine
 
 [![Java](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://openjdk.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
