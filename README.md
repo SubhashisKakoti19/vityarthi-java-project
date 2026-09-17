@@ -5,7 +5,7 @@
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 [![Concurrency](https://img.shields.io/badge/Concurrency-Lock--Free%20CAS-purple.svg)]()
 
-**OmniStore** is a high-throughput, thread-safe, enterprise-grade multi-warehouse inventory and intelligent order-routing engine developed in modern Java (JDK 17+ / Java 21). It solves the complex distributed fulfillment challenge by decoupling order fulfillment orchestration from pluggable routing algorithms via the Strategy Pattern, while safeguarding inventory data consistency under extreme multi-threaded concurrency using atomic operations and compensating transactions.
+**IMS SYSTEM** is a high-throughput, thread-safe, enterprise-grade multi-warehouse inventory and intelligent order-routing engine developed in modern Java (JDK 17+ / Java 21). It solves the complex distributed fulfillment challenge by decoupling order fulfillment orchestration from pluggable routing algorithms via the Strategy Pattern, while safeguarding inventory data consistency under extreme multi-threaded concurrency using atomic operations and compensating transactions.
 
 ---
 
